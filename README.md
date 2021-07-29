@@ -1,6 +1,6 @@
 # 3D-Augmented-Reality
- Marker Based 3D Augmented Reality Application.  The objective of this project is to design an 3D human figure model with animation and develop an AR application for the same.
-The project will include modeling of a human figure using one of the 3D modeling techniques in a software like Unity and the adding animations to the model.
+ Marker Based 3D Augmented Reality Application.  The objective of this project is to design a 3D human figure model with animations and develop an AR application for the same which will include several functionalities to control the humanoid model in 3D-AR space.
+The project will include modeling of a human figure using one of the 3D modeling techniques in a software like Unity and Blender and then adding animations to the model.
 Then  project is integrated into an android application which will access the phone camera.
 
 # Introduction
@@ -37,7 +37,6 @@ Lean Touch was imported from Unity Asset store and added to the character model 
 # Implementation stages
 - AR Image Target settings
 - Modeling 
-  - Sculpting & Texturing
   - Rigging
   - Skinning
 - Animation
@@ -49,24 +48,40 @@ Lean Touch was imported from Unity Asset store and added to the character model 
   - Character Controller
   - Lean Touch: Pinch to Scale 
 
+# Marker 
+Image Target used in this project: 
+<p align="left">
+  <img width="200" height="250" src="cap_cover.jpeg">
+</p>
 
 
 ### Results
 
-<p align="center">
+<p align="left">
   <img width="500" height="250" src="Results/result1.jpeg">
 </p>
-<p align="center">
+<p align="left">
   <img width="500" height="250" src="Results/result2.jpeg">
 </p>
-<p align="center">
+<p align="left">
   <img width="500" height="250" src="Results/result3.jpeg">
 </p>
 
 
 
 
-### base
+### How to Run: 
+
+1. Add the "ar_thanos_app_final.apk" on internal storage of your andorid mobile and install the app.
+2. For target image, you will need to print the "cap_cover.jpeg" image in  color format.
+3. Open the app on phone and focus the camera on the printed image to generate the 3D AR model.
+
+### Installing project into Unity
+
+1. Install unity hub and editor
+2. Install Vuforia AR engine package
+3. Import the source code and assets inside a new unity project. (Note: Library folder has not been uploaded in this repo)
+4. After importing the source code, you can view the scene and build the application if required.
 
 
 
