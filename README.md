@@ -55,10 +55,12 @@ Lean Touch was imported from Unity Asset store and added to the character model 
   - Lean Touch: Pinch to Scale 
 
 # Animations
-![](https://media.giphy.com/media/ENjiirvwWvkyMhod0V/giphy.gif)
-![](https://media.giphy.com/media/ENjiirvwWvkyMhod0V/giphy.gif) 
-![](https://media.giphy.com/media/yTAJ19TRHUjxSiwm8X/giphy.gif)
-![](https://media.giphy.com/media/TIHiJqe2PP3LEu5GWN/giphy.gif)
+|![](https://media.giphy.com/media/ENjiirvwWvkyMhod0V/giphy.gif)| ![](https://media.giphy.com/media/yTAJ19TRHUjxSiwm8X/giphy.gif)|
+|:---:|:---:|
+|*Idle*|*Walk* |
+| ![](https://media.giphy.com/media/tXrKWdV4vC6lgmX1WB/giphy.gif)|![](https://media.giphy.com/media/TIHiJqe2PP3LEu5GWN/giphy.gif)|
+|||
+|*Kick*|*Jump*|
 
 ### Results
 
@@ -72,7 +74,9 @@ Lean Touch was imported from Unity Asset store and added to the character model 
   <img width="500" height="250" src="Results/result3.jpeg">
 </p>
 
-
+| [![](https://d1ow200m9i3wyh.cloudfront.net/img/assets/videoblocks/images/logo.png)](http://videoblocks.com)  | [![](https://dtyn3c8zjrx01.cloudfront.net/img/assets/audioblocks/images/logo.png)](http://audioblocks.com) | [![](http://www.graphicstock.com/images/logo.jpg)](http://graphicstock.com) |
+|:---:|:---:|:---:|
+| http://videoblocks.com | http://audioblocks.com | http://graphicstock.com |
 
 
 ### How to Run: 
