@@ -22,6 +22,12 @@ Maker-based AR works by scanning a marker which triggers an augmented experience
 - The Vuforia Target Manager is a web-based tool that enables us to create and manage target databases on Vuforia’s developer portal. 
 - The purpose of Vuforia Device Database – also referred to as datasets in the SDK – is to provide the AR application with a locally accessible database of targets.
 - Once we have successfully added our targets, we can now download the device database or use the target IDs for our application.
+# Marker 
+Image Target used in this project: 
+<p align="left">
+  <img width="200" height="250" src="cap_cover.jpeg">
+</p>
+
 
 # Features
 - **Character controller** : A Character Controller allows one to easily do movement constrained by collisions without having to deal with a rigidbody.
@@ -48,12 +54,13 @@ Lean Touch was imported from Unity Asset store and added to the character model 
   - Character Controller
   - Lean Touch: Pinch to Scale 
 
-# Marker 
-Image Target used in this project: 
-<p align="left">
-  <img width="200" height="250" src="cap_cover.jpeg">
-</p>
-
+# Animations
+|![](https://media.giphy.com/media/ENjiirvwWvkyMhod0V/giphy.gif)| ![](https://media.giphy.com/media/yTAJ19TRHUjxSiwm8X/giphy.gif)|
+|:---:|:---:|
+|*Idle*|*Walk* |
+| ![](https://media.giphy.com/media/tXrKWdV4vC6lgmX1WB/giphy.gif)|![](https://media.giphy.com/media/TIHiJqe2PP3LEu5GWN/giphy.gif)|
+|||
+|*Kick*|*Jump*|
 
 ### Results
 
