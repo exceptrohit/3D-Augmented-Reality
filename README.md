@@ -10,7 +10,7 @@ Augmented Reality (AR) turns the environment around you into a digital interface
 This type of AR, also known as recognition-based AR or image recognition, relies on identification of markers/user-defined images to function. Marker-based AR requires a marker to activate an augmentation. Markers are distinct patterns that cameras can easily recognize and process, and are visually independent of the environment around them; they can be paper-based or physical objects that exist in the real world.
 Maker-based AR works by scanning a marker which triggers an augmented experience (whether an object, text, video or animation) to appear on the device.
 
-## Tools Required
+## Tools Required  <img src="https://user-images.githubusercontent.com/49911198/127599133-169e3551-0bd8-4b37-8db8-eeb8093d694f.png" width=300 align=right>
 
 - Unity 
 - Vuforia 
@@ -64,14 +64,14 @@ Lean Touch was imported from Unity Asset store and added to the character model 
 
 ### Results
 
-<p align="left">
-  <img width="500" height="250" src="Results/result1.jpeg">
-</p>
-<p align="left">
-  <img width="500" height="250" src="Results/result2.jpeg">
-</p>
-<p align="left">
-  <img width="500" height="250" src="Results/result3.jpeg">
+
+
+<p float="left">
+  <img src="Results/gif1.gif" width="400" height="250" /> 
+  <img src="Results/gif2.gif" width="400" height="250" />
+ 
+  <img src="Results/result2.jpeg" width="400" height="250"/> 
+  <img src="Results/result3.jpeg" width="400" height="250" />
 </p>
 
 
