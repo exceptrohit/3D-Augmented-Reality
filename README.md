@@ -55,19 +55,10 @@ Lean Touch was imported from Unity Asset store and added to the character model 
   - Lean Touch: Pinch to Scale 
 
 # Animations
-| ![](https://media.giphy.com/media/ENjiirvwWvkyMhod0V/giphy.gif) | 
-|:--:| 
-| *Idle* |
-| ![](https://media.giphy.com/media/ENjiirvwWvkyMhod0V/giphy.gif) | 
-|:--:| 
-| *Walk* |
-| ![](https://media.giphy.com/media/yTAJ19TRHUjxSiwm8X/giphy.gif) | 
-|:--:| 
-| *Kick* |
-| ![](https://media.giphy.com/media/TIHiJqe2PP3LEu5GWN/giphy.gif) | 
-|:--:| 
-| *Jump* |
-
+![](https://media.giphy.com/media/ENjiirvwWvkyMhod0V/giphy.gif)
+![](https://media.giphy.com/media/ENjiirvwWvkyMhod0V/giphy.gif) 
+![](https://media.giphy.com/media/yTAJ19TRHUjxSiwm8X/giphy.gif)
+![](https://media.giphy.com/media/TIHiJqe2PP3LEu5GWN/giphy.gif)
 
 ### Results
 
