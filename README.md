@@ -75,10 +75,10 @@ Lean Touch was imported from Unity Asset store and added to the character model 
 </p>
 
 
-### Use case 
+# Use case Diagram
 
 <p align="left">
-  <img width="300" height="500" src="Images/usecase.png">
+  <img width="500" height="550" src="Images/usecase.png">
 </p>
 
 
